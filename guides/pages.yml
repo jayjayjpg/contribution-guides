@@ -10,8 +10,8 @@
   pages:
     - title: "Ember and Open Source"
       url: "index"
-    - title: "Motivation"
-      url: "motivation"
+    - title: "Our Community Values"
+      url: "community-values"
 
 - title: "Find a Project"
   url: 'find-a-project'
